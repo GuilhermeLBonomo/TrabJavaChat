@@ -15,3 +15,6 @@ V
 &src/InterfacesGraficas/ImagePanel.java,b/2/b2b541fb43814976d1524392ea125e07c094f584
 L
 src/Tests/TestClientGUI.java,f/1/f19838726beab202bae4128c368756f8bb6f4129
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302

@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.net.Socket;
 
-final public class MainGUI extends JFrame {
+public final class MainGUI extends JFrame {
 
     private JTextField portaServidorField;
     private JButton iniciarServidorButton;
@@ -123,6 +123,6 @@ final public class MainGUI extends JFrame {
     }
 
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> new MainGUI());
+        SwingUtilities.invokeLater(MainGUI::new);
     }
 }
