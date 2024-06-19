@@ -9,10 +9,6 @@ D
 src/MainGUI.java,1/c/1c3212bd29990f9d93ede69f4d4a13913399e455
 X
 (src/InterfacesGraficas/PlanoDeFundo.java,0/0/005d407d84a2477766d20dd5320bde665207d47e
-[
-+src/InterfacesGraficas/BackgroundPanel.java,e/5/e572c4bfd1ada8a57b6db2279fa9e0dcea3b4102
-V
-&src/InterfacesGraficas/ImagePanel.java,b/2/b2b541fb43814976d1524392ea125e07c094f584
 L
 src/Tests/TestClientGUI.java,f/1/f19838726beab202bae4128c368756f8bb6f4129
 :

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TrabJavaChat_J11:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TrabJavaChat_J11_jar</output-path>
+    <root id="archive" name="TrabJavaChat.jar">
+      <element id="module-output" name="TrabJavaChat" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.0/annotations-24.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

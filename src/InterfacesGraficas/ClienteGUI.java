@@ -113,7 +113,7 @@ final public class ClienteGUI extends JFrame implements ActionListener {
 
         String formattedTime = LocalTime.now().format(DateTimeFormatter.ofPattern("HH:mm"));
         message = String.format("%s|%s[%s]: %s", LocalDate.now(), formattedTime, nome, message);
-        chatArea.append(STR."\{message}\n");
+        chatArea.append(message + "\n");
         lastSentMessage = message;
 
         try {
@@ -137,7 +137,7 @@ final public class ClienteGUI extends JFrame implements ActionListener {
                     String message;
                     while ((message = reader.readLine()) != null) {
                         if (!message.equals(lastSentMessage)) {
-                            chatArea.append(STR."\{message}\n");
+                            chatArea.append(message + "\n");
                         }
                     }
                 } catch (IOException e) {

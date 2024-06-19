@@ -1,0 +1,17 @@
+
+l
+java:S1604…"(Make this anonymous inner class a lambda(ÉãÃ®8¼›¿ˆƒ2J$96df17fa-7805-4f0a-99a1-b4485bd60e13
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃîùÈ8½›¿ˆƒ2J$2dad832b-7903-47d0-b31f-1c79b4439bf1
+‡
+java:S2583("DChange this condition so that it does not always evaluate to "false"(¯Î±8½›¿ˆƒ2J$88cb9284-19db-4fcb-b5ba-180c280dd164
+p
+java:S1948".Make "clientSocket" transient or serializable.(ó’ª~8Ã›¿ˆƒ2J$b41abe5a-fbc8-4cf8-a5f6-6186f60febb5
+v
+java:S1948".Make "outputStream" transient or serializable.(»Ìãóûÿÿÿÿ8Ã›¿ˆƒ2J$b79402d4-19b0-4ffa-9081-dbe6c87b3a1f
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(è…¤ş8Å›¿ˆƒ2J$9d2a0b72-71f3-4425-a7ff-86a8f8248760
+r	java:S106$"+Replace this use of System.err by a logger.(åõ™Óùÿÿÿÿ8Ç›¿ˆƒ2J$8b8127b0-9e7c-4470-a945-36b597d41b6f
+m	java:S106)"+Replace this use of System.err by a logger.(ù½ÔÄ8È›¿ˆƒ2J$2e2710ac-4120-419f-8b2d-7eb0e51e6736
+‘
+java:S32524"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8Ê›¿ˆƒ2J$c37f7424-db3a-469b-9efe-b39751fcaca2
+l	java:S106;"+Replace this use of System.err by a logger.(ó—Ó58Ë›¿ˆƒ2J$8019b728-f87e-4625-8c9c-384f139ae93f
