@@ -1,0 +1,20 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±••›8ƒώΛό€2J$a960de62-c4dc-45c3-8690-9d4fa1ebfabe
+j
+java:S2189""Add an end condition to this loop.(οÿÿÿÿÿ8«Γεύ€2J$739d6e6a-cf44-41d5-98ac-578c9d0ba27b
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(’€Ή©ψÿÿÿÿ8―Γεύ€2J$22db2e6f-5fa4-44ca-a2b7-02590a37803a
+r	java:S106"+Replace this use of System.out by a logger.(’€Ή©ψÿÿÿÿ8―Γεύ€2J$9a7ca01a-2e4d-4080-bd1c-49226ecae95b
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ξξ8―Γεύ€2J$6f190ae6-eddb-4fd1-9416-bf9948aa92ad
+m	java:S106"+Replace this use of System.out by a logger.(Ξξ8―Γεύ€2J$927889a8-e93f-4e42-bf7e-bcb21a1bb4ef
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(†¤ύÿÿÿÿ8±Γεύ€2J$5cb9d9ae-5085-4577-9fac-38d89f0ce8fc
+r	java:S106"+Replace this use of System.err by a logger.(†¤ύÿÿÿÿ8±Γεύ€2J$55bc0268-2acb-49a8-8fae-ccbd37e81c3c
+™
+java:S34571"Q%n should be used in place of \n to produce the platform-specific line separator.(Π¶Φϋÿÿÿÿ8³Γεύ€2J$2fe14cb5-b13c-4022-9460-e69adbef0a41
+r	java:S1061"+Replace this use of System.out by a logger.(Π¶Φϋÿÿÿÿ8³Γεύ€2J$4b56a13f-e85b-4fcb-b49e-fa231cf8d7cf
+i
+java:S3398D"&Move this method into "TratarCliente".(ΚΓ―°8¶Γεύ€2J$568807ab-5c87-4d5e-b876-f1dc11e93550
+{
+java:S1068"3Remove this unused "MAX_NAME_LENGTH" private field.(ΦΛΠόÿÿÿÿ8¶Γεύ€2J$651ad82f-b75e-4ee3-9363-f56a4a4cda35

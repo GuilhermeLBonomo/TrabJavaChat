@@ -1,0 +1,15 @@
+
+k
+java:S1604$"(Make this anonymous inner class a lambda(ÜĞÃ¨8ßƒ˜ÿ€2J$4898b2eb-2e13-4f87-bdbe-d714fa68f200
+k
+java:S1604Y"(Make this anonymous inner class a lambda(²àß°8ßƒ˜ÿ€2J$c10a7950-a5ea-47ea-a78c-b0dc40aa441c
+§
+java:S1450"dRemove the "iniciarServidorButton" field and declare it as a local variable in the relevant methods.(®ß‹8ãƒ˜ÿ€2J$ba15149a-2a68-4b1c-b76d-2e021f0ef702
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¡ó¾Áşÿÿÿÿ8³¨¥€2J$e36458fb-b1e3-479b-91d4-325d57da72df
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8æƒ˜ÿ€2J$93505320-94ea-441e-9ced-529e36591147
+Œ
+java:S3252D"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¡Çèå8ëƒ˜ÿ€2J$25025c78-d813-482b-9b2e-5fe3566345ea
+|
+java:S1612~"9Replace this lambda with method reference 'MainGUI::new'.(µÇì¬8ğƒ˜ÿ€2J$1a3806f3-e744-44ec-8809-b7e813a6484b
